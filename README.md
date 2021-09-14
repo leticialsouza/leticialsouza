@@ -4,8 +4,8 @@
 
  <div>
   <a href="https://github.com/leticialsouza">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leticialsouza&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticialsouza&layout=compact&langs_count=7&theme=synthwave"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=leticialsouza&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticialsouza&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
   
   ## Tecnologias
@@ -19,7 +19,7 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
-   ##
+   ## Contatos
  
 <div>
   <a href="https://www.instagram.com/leticianofront" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
