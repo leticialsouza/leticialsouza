@@ -1,6 +1,6 @@
 ## Olá! Me chamo Letícia.
 
-👩‍💻 Desenvolvedora Java Jr. pela Generation Brasil
+👩‍💻 Desenvolvedora Java Jr.
 
  <div>
   <a href="https://github.com/leticialsouza">
